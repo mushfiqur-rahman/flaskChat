@@ -34,4 +34,6 @@ then you need to set your computer `IP` at `localhost`.
 
 ____
 
-If you like this project please give a STAR
+If you like this project please give a ⭐
+
+* Image
